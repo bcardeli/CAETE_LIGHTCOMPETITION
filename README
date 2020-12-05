@@ -1,0 +1,12 @@
+This folder contains the files about light competition dynamics of CAETÊ model. 
+The dynamics are developed by Caio Fascina, Bianca Rius e Barbara Cardeli with collab by Luan Correa - members of LabTerra team,
+and this files are desacopled of model and your logics are able to run off-line.
+
+The parts of allocation (necessary to Light Competition) are based in LPJ-Model (Sitch et al., 2003; Smith 2001).
+
+DESCRIPTION:
+
+Light_Allometry.f90 -> contains the allometry equations and logic of light competition in Fortran90 language;
+
+Light_Allometry.oy -> contains the allometry equations and logic of light competition in Python language;
+
